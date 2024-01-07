@@ -1,0 +1,1 @@
+Crie um site usando HTML e as imagens e textos abaixo como referência. O site deverá possuir 3 páginas, início, serviços e contato, e também deverá permitir a navegação entre essas páginas.
